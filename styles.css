@@ -1,13 +1,14 @@
-body {background: rgb(3, 3, 3);
+body {background: rgb(177, 223, 235);
     display:flex;
     margin-left: auto;
     margin-right:auto;
     width: 90%;
     font-family:Arial, Trebuchet MS;
-    border:1px solid rgb(243, 237, 237);
+    border:1px solid rgb(42, 33, 170);
     flex-direction: column;
     height: fit-content;
     text-align: center;
-    color:white;
+    color:rgb(3, 0, 0);
     
 }
+
