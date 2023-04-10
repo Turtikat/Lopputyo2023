@@ -12,3 +12,20 @@ body {background: rgb(177, 223, 235);
     
 }
 
+a:link {
+    color:blue
+}
+a:visited {
+    color:rgb(50, 86, 128)
+}
+
+a:focus {
+    color:blueviolet
+}
+
+a:hover {
+    color:rgb(42, 120, 236)
+}
+a:active {
+    color:red
+}
