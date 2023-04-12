@@ -30,3 +30,7 @@ a:active {
     color:red
 }
 
+input[type="submit"]:hover {
+    background-color: rgb(172, 15, 159);
+  }
+
