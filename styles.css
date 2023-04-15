@@ -9,7 +9,6 @@ body {background: rgb(177, 223, 235);
     height: fit-content;
     text-align: center;
     color:rgb(3, 0, 0);
-    
 }
 
 a:link {
@@ -33,4 +32,5 @@ a:active {
 input[type="submit"]:hover {
     background-color: rgb(172, 15, 159);
   }
+
 
