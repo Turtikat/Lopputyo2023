@@ -30,51 +30,54 @@ a:active {
     color:red
 }
 
+/* index-sivun Lähetä-painike */
 input[type="submit"]:hover {
     background-color: rgb(172, 15, 159);
   }
 
 
+/* 3 sivun otsikoiden varjostus*/
 .varjo {
     text-shadow: 2px 2px #d2df1c;
 }
 
-  footer {
+/* footerin asetukset*/
+footer {
         background: rgb(92, 92, 243);
         color: black
         text-align: center;
-    }
+}
 
-  
-    div.example {
+/* 3 sivun kuva joka häviää ruudun pienentyessä*/  
+div.example {
        padding: 20px;
-    }
+}
     
-    @media screen and (max-width: 800px) {
+@media screen and (max-width: 800px) {
       div.example {
         display: none;
       }
-    }
+}
     
 
-
-    table {
+/* etusivun taulukko */
+table {
     font-family: arial, sans-serif;
     border-collapse: collapse;
     width: 100%;
 
-    }
+}
 
-  table { margin : 0 auto; }
+table { margin : 0 auto; }
  
   
   td, th {
     border: 1px solid #6e70ee;
     text-align: left;
     padding: 8px;
-  }
+}
   
-  tr:nth-child(even) {
+tr:nth-child(even) {
     background-color: #6696f0;
-  }
+}
  
