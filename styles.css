@@ -39,7 +39,7 @@ input[type="submit"]:hover {
     text-shadow: 2px 2px #d2df1c;
 }
 
-  footer {
+  .footer {
         background: rgb(92, 92, 243);
         color: black
         text-align:center;
