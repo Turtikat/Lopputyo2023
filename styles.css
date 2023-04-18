@@ -39,11 +39,6 @@ input[type="submit"]:hover {
     text-shadow: 2px 2px #d2df1c;
 }
 
-
-.video{
-    height: auto;
-}
-
   footer {
         background: rgb(92, 92, 243);
         color: black
