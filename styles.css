@@ -45,7 +45,7 @@ input[type="submit"]:hover {
         text-align:center;
   }
 
-  <style>
+  
     div.example {
        padding: 20px;
     }
@@ -55,7 +55,7 @@ input[type="submit"]:hover {
         display: none;
       }
     }
-    </style>
+    
 
 
     table {
@@ -63,7 +63,7 @@ input[type="submit"]:hover {
     border-collapse: collapse;
     width: 100%;
 
-  }
+    }
 
   table { margin : 0 auto; }
  
