@@ -21,7 +21,7 @@ a:visited {
 a:focus {
     color:blueviolet
 }
-
+/* kommentti */
 a:hover {
     color:rgb(42, 120, 236)
 }
@@ -34,3 +34,30 @@ input[type="submit"]:hover {
   }
 
 
+#varjo {
+    text-shadow: 2px 2px #d2df1c;
+}
+
+
+.video{
+    width: 100%;
+    height: auto;
+}
+
+  footer {
+        background: rgb(84, 84, 241);
+        color: black
+        text-align:center;
+  }
+
+  <style>
+    div.example {
+       padding: 20px;
+    }
+    
+    @media screen and (max-width: 600px) {
+      div.example {
+        display: none;
+      }
+    }
+    </style>
